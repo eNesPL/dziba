@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Panel.iml" filepath="$PROJECT_DIR$/.idea/Panel.iml" />
-      <module fileurl="file://$USER_HOME$/PhpstormProjects/dziba/.idea/dziba.iml" filepath="$USER_HOME$/PhpstormProjects/dziba/.idea/dziba.iml" />
     </modules>
   </component>
 </project>

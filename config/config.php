@@ -6,4 +6,5 @@ $pexdb = "pex";
 $authmedb = "authme";
 $newsdb = "newsdb";
 $banydb = "bany";
+$chatdb = "chat";
 ?>

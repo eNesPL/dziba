@@ -47,9 +47,3 @@ echo('</div>');
 
 echo('</div>');
 
-if($pex_in['parent'] == "HeadAdmin" || $pex_in['parent'] == "Technik"){
-
-    echo('<form id="wpisz" action="wpisz.php" method="post">');
-    echo('<textarea name="wpis" id="wpis" cols="50" rows="5"></textarea>');
-    echo('<button id="wpiser">wyślij</button>');
-}

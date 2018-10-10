@@ -92,7 +92,7 @@ if(!isset($_SESSION['zalogowany'])){
     //koniec
 
     echo('</div>');
-
+ //r
     echo('<div id="menu2">');
     echo('<a href="http://craftserve.pl/s/614998/shop"><div id="bloczek">Sklep');
     echo('</div></a>');
